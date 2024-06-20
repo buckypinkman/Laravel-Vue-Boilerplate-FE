@@ -1,0 +1,39 @@
+{
+  "name": "naive",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vicons/ionicons5": "^0.12.0",
+    "@vue/compiler-sfc": "^3.4.27",
+    "axios": "^0.26.1",
+    "chart.js": "^3.9.1",
+    "core-js": "^3.37.1",
+    "moment": "^2.30.1",
+    "vue": "^3.4.27",
+    "vue-axios": "^3.5.2",
+    "vue-chartjs": "^4.1.2",
+    "vue-debounce": "^5.0.0",
+    "vue-router": "^4.3.2",
+    "vue3-apexcharts": "^1.5.3",
+    "vue3-marquee": "^4.2.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/eslint-parser": "^7.24.7",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-plugin-router": "^5.0.8",
+    "@vue/cli-plugin-vuex": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^9.26.0",
+    "naive-ui": "^2.38.2"
+  }
+}
